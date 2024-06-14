@@ -14,6 +14,7 @@ Supporting javascript function for interactive element
 - Element stickiness: sticky until end of space
 - Screen size and child width
 - Position element within nearest width and nearest height, top first, left or right.
+- Scroll to position
 
 
 Working with dom best practice
