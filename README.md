@@ -30,3 +30,5 @@ Working with dom best practice
 10. Use JS to store state and sync to HTML via events, reducing state in HTML.
 11. RequestAnimationFrame
 12. FLIP technique
+13. Debouncing user actions: https://web.archive.org/web/20220117092326/http://demo.nimius.net/debounce_throttle/
+14. Throttling might be useful. But I dont know on what time of interaction.
